@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 200,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "hi everyone how are you!",
         "I like to play Minecraft!"
       ]
     },
