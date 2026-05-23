@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 200,
+      "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
         "hi everyone how are you!",
